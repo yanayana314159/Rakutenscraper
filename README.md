@@ -1,1 +1,3 @@
 # Rakutenscraper
+楽天のマーケット情報をDiscordに逐一伝達させるためのスクリプト
+Herokuで使用していたが現在は利用していない．
